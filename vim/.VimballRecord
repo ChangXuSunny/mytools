@@ -1,0 +1,2 @@
+tagbar.vmb: call delete('/home/lovesnow/.vim/autoload/tagbar.vim')|call delete('/home/lovesnow/.vim/doc/tagbar.txt')|call delete('/home/lovesnow/.vim/plugin/tagbar.vim')|call delete('/home/lovesnow/.vim/syntax/tagbar.vim')
+tagbar.vmb: call delete('/home/lovesnow/.vim/autoload/tagbar.vim')|call delete('/home/lovesnow/.vim/doc/tagbar.txt')|call delete('/home/lovesnow/.vim/plugin/tagbar.vim')|call delete('/home/lovesnow/.vim/syntax/tagbar.vim')
